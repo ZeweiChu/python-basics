@@ -1,4 +1,4 @@
-# python basics(https://github.com/ZeweiChu/python-basics)
+# [python basics](https://github.com/ZeweiChu/python-basics)
 
 GitHub repo: [https://github.com/ZeweiChu/python-basics](https://github.com/ZeweiChu/python-basics)
 
