@@ -2,7 +2,7 @@
 
 GitHub repo: [https://github.com/ZeweiChu/python-basics](https://github.com/ZeweiChu/python-basics)
 
-julyedu线下集训notes
+julyedu线上集训notes
 
 褚则伟
 
